@@ -1,0 +1,14 @@
+#root{
+    display: flex;
+    width: 400px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+body{
+    height: 96vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid red;    */
+    background-color: rgb(42, 42, 42);
+}
